@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "scrape-app"
 version = "0.1.0"
-description = ""
+description = "An app for scraping the information"
 authors = ["Dddarknight <9801677@gmail.com>"]
 packages = [
   { include = "scrape_app" },
